@@ -1,4 +1,4 @@
-# LangChain
+# 🥐 LangChain
 
 ```
 https://python.langchain.com/
