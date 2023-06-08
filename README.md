@@ -8,5 +8,4 @@ description: For this study notes
 
 Hi, my name is Rob Zhang. I have been studying and working as a coder for years. I am using this site to take my study notes, as I need a place to organize my thoughts and keep track of my progress.
 
-
-
+That is it. I hope you enjoy my notes.
