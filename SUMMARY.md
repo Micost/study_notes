@@ -7,3 +7,5 @@
   * [Prompts](langchain/prompts.md)
   * [Memory](langchain/memory.md)
   * [Indexes](langchain/indexes.md)
+* [🥯 Rust](rust/README.md)
+  * [Programming a Guessing Game](rust/programming-a-guessing-game.md)
